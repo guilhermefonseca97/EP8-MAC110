@@ -2,8 +2,9 @@
 Doing operations with arrays
 
 This program is used by to do operations with arrays. This operations are: 
-'rh' - To bounce horizontal array\n
-'rv' - To bounce vertical array\n
+
+'rh' - To bounce horizontal array
+'rv' - To bounce vertical array
 'ro' - Rotate an array 90 degrees clockwise
 'tr' - To obtain the transpose of an array
 'sm' - To extract an submatriz from an array
